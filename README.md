@@ -1,0 +1,2 @@
+# accordionSlider
+jQuery Accordion Slider
