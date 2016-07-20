@@ -21,6 +21,8 @@ h2 {
 
 #content {
     background-color: #f2f2f2;
+    border-radius: 5px;
+    padding-bottom: 20px;
 }
 
 ul {
@@ -41,4 +43,19 @@ li img {
     font-size: 120%;
     border-bottom: 1px #ddd;
     cursor: pointer;
+    margin-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+    margin-right: 20px;
+}
+
+.faq li.a {
+    display: none;
+    padding: 5px 0 10px 30px;
+    line-height: 1.2;
+    color: brown;
+    font-size: 18px;
+}
+
+.rt {
+    transform: rotate(90deg);
 }
